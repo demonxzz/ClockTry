@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "sendNotification"; ObjectID = "S8g-lU-Hub"; */
+"S8g-lU-Hub.normalTitle" = "sendNotification";
+
+/* Class = "UIButton"; normalTitle = "cancelNotification"; ObjectID = "cjq-8m-aYP"; */
+"cjq-8m-aYP.normalTitle" = "cancelNotification";
+
+/* Class = "UIButton"; normalTitle = "StoreDate"; ObjectID = "hKk-TH-0dV"; */
+"hKk-TH-0dV.normalTitle" = "StoreDate";
+
+/* Class = "UIButton"; normalTitle = "ShowDate"; ObjectID = "iDa-6f-8bi"; */
+"iDa-6f-8bi.normalTitle" = "ShowDate";
